@@ -1,0 +1,7 @@
+https://www.facebook.com/ 7
+https://www.geeksforgeeks.org/ 12
+https://www.w3schools.com/sql/sql_join.asp 6
+https://www.umass.edu/ 8
+https://www.google.com/ 20
+https://leetcode.com/ 6
+https://www.cics.umass.edu/careers/about 6

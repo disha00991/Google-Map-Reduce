@@ -1,0 +1,7 @@
+{
+  "workers":5,
+  "inputfile": "input/urlfrequency_input.txt",
+  "intermediatedir": "intermediate",
+  "outputdir": "docs/output/urlfrequency",
+  "baseport": 5000
+}
